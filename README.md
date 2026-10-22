@@ -2,8 +2,6 @@
 
 # 👋 Hi there, I'm Prantik Sandhu
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=flat-square" alt="profile views" />
-
 ### 💫 About Me:
 **Faculty of Technology • University of Delhi**<br>
 **B.Tech. • Computer Science & Engineering • 1st Year**<br><br>
